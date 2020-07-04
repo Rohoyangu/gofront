@@ -43,7 +43,7 @@ const Page: React.FC<{
         <div className="home-page__hero-text">
           <div>
             <span className="home-page__hero__title">
-              <h1>AFRICAN FASHION</h1>
+              <h1></h1>
             </span>
           </div>
    
@@ -92,7 +92,7 @@ const Page: React.FC<{
                         })`,
                       }}
                     />
-                    <h3>{category.name}</h3>
+                    <h3>SHOP {category.name}</h3>
                   </Link>
                 </div>
               ))}
