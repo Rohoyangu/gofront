@@ -16,7 +16,7 @@ const Footer: React.FC = () => (
     </div>
 
     <Nav />
-      <div className="pay">PAYMENT METHOD</div>
+     
 );
 
 export default Footer;
